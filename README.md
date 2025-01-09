@@ -1,7 +1,7 @@
 # PyCascades
 PyCascdes 2025 Demo
 
-Brainstorming
+[Brainstorming](https://ohsucomputationalbio.slack.com/canvas/C07TZ82UVC5)
 1. Potential Ideas / Components
 
 * customizing a submission process in Python for the gen3 platform
