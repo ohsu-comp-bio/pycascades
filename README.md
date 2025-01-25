@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" style="border: 10px #5d2ec8 groove;">
   <a href="https://2025.pycascades.com/">
-    <img title="PyCascades" style="border: 10px #5d2ec8 groove" src="https://github.com/user-attachments/assets/b6f1310e-fa40-423b-8bfe-9d8af77dbfbf" />
+    <img title="PyCascades" src="https://github.com/user-attachments/assets/58da3b72-0972-4eaf-aa2b-352e49dcc29d" />
   </a>
 </p>
 
