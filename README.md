@@ -1,45 +1,27 @@
-# PyCascades
-PyCascdes 2025 Demo
+<p align="center" style="border: 10px #5d2ec8 groove;">
+  <a href="https://2025.pycascades.com/">
+    <img title="PyCascades" src="https://github.com/user-attachments/assets/58da3b72-0972-4eaf-aa2b-352e49dcc29d" />
+  </a>
+</p>
 
-[Brainstorming](https://ohsucomputationalbio.slack.com/canvas/C07TZ82UVC5)
-1. Potential Ideas / Components
+# PyCascades 2025 Demo 🐍 🏔️
 
-* customizing a submission process in Python for the gen3 platform
-* Data Structures for Scalable and Efficient Machine Learning (also questions that can be asked/answered). focusing on BMEG
-* Combination of the above? Our current title is “Data Science Garage: Building Tools for Genomic Research”
-* Can we add the new machine learning feature extraction paper in ^ . (was it done by randomForest  :melting_face:)
-* Predicting molecular subtypes: data tutorial with scikit learn. Related ideas...
-    * future BK paper on molecular subtyping
-    * breast cancer grabbing mafs and finding most mutated genes
+PyCascades is a demonstration project for [PyCascades 2025](https://2025.pycascades.com/).
 
-1. Potential Talk flow and time breakdown example
+The project focuses on building tools for genomic research, particularly in customizing a submission process in Python for the Gen3 platform and machine learning for predicting molecular subtypes:
+- Customizing a submission process for the [Gen3 Platform](https://gen3.org/)
+- Predicting molecular subtypes using data tutorial with [scikit-learn](https://scikit-learn.org/)
+- End-to-end data analysis and visualization
 
+## Getting Involved 🤝
+If anything interests you please reach out — we love to share ideas and hear your thoughts (we also welcome PR's, forks, and issues)!
 
-GDC BioBlend
-PyGrip
-Xena
-cBioPortal
-Prevalent mutations in cancer subtypes (e.g. most common mutation in breast cancer, hotspots across proteins)
-Include AI!
-Grid search of scikit-learn pipelines
-End-to-end, multistep walkthrough of:
-
-* Finding data
-* Analyze data,
-* Visualize data
-
-
-Action Items
-
-* Chat with Nasim about FHIR Aggregator or CDA as Python demo
-* Which resources we’ll pull from?
-* Which transformations?
-* Which figures?
-* E.g. Mutex for Cancer mutations or Machine Learning
-* scikit-learn pipeline — TMP Paper (tarball with all cancers and subtypes), pandas operations to subset information and create ML model that recognizes that
-    * Basal vs Luminal
-    * Mutual Exclusivity Matrix (e.g. like BK has presented)
-* Meet January 9th in afternoon before Nasim heads out
-* Create hidden repo in ohsu-comp-bio
-
-
+## Additional Resources 📚
+- [FHIRizer](https://github.com/bmeg/fhirizer​): Transforming and Harmonizing GDC, Cellosaurus, and ICGC into FHIR format
+- [Galaxy Workflow](https://cancer.usegalaxy.org/): The Cancer Galaxy serves as a hub for tools commonly used in analysis of cancer datasets
+- [Cancer Data Aggregator](https://datacommons.cancer.gov/news/cancer-data-aggregator-tailored-all-levels-computational-expertise) ([Docs](https://cda.readthedocs.io/))
+- [Multi-omics Cohort Building with Cancer Data Aggregator](https://colab.research.google.com/github/CancerDataAggregator/Community-Notebooks/blob/main/Tutorials/005_isbcgc.ipynb) (Colab Notebook)
+- [TES on Azure](https://github.com/microsoft/ga4gh-tes)
+- [nf-core](https://nf-co.re/): Nextflow Pipelines
+- [Clinical Interpretation of Variants in Cancer](https://civicdb.org/)
+- [vrs-annotator](https://github.com/ohsu-comp-bio/vrs-annotator): Annotates VCF Variants with VRS IDs
