@@ -1,7 +1,6 @@
-# PyCascades 2025 Demo 🐍🏔️
+# PyCascades 2025 Demo 🐍 🏔️
 
-PyCascades is a demonstration project for PyCascades 2025. The project focuses on building tools for genomic research, particularly in customizing a submission process in Python for the Gen3 platform and machine learning for predicting molecular subtypes:
-
+PyCascades is a demonstration project for [PyCascades 2025](https://2025.pycascades.com/). The project focuses on building tools for genomic research, particularly in customizing a submission process in Python for the Gen3 platform and machine learning for predicting molecular subtypes:
 - Customizing a submission process for the [Gen3 Platform](https://gen3.org/)
 - Predicting molecular subtypes using data tutorial with [scikit-learn](https://scikit-learn.org/)
 - End-to-end data analysis and visualization
