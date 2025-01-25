@@ -8,10 +8,22 @@
 
 PyCascades is a demonstration project for [PyCascades 2025](https://2025.pycascades.com/).
 
+## Overview 🌀
+
 The project focuses on building tools for genomic research, particularly in customizing a submission process in Python for the Gen3 platform and machine learning for predicting molecular subtypes:
 - Customizing a submission process for the [Gen3 Platform](https://gen3.org/)
 - Predicting molecular subtypes using data tutorial with [scikit-learn](https://scikit-learn.org/)
 - End-to-end data analysis and visualization
+
+## Quick Start ⚡
+
+| Python Notebook                                            | Colab Notebook                         |
+|------------------------------------------------------------|----------------------------------------|
+| [streamline_cancer_subtype_classification.ipynb][notebook] | [![Open in Colab][colab-badge]][colab] |
+
+[notebook]: ./demo/streamline_cancer_subtype_classification.ipynb
+[colab]: https://colab.research.google.com/github/ohsu-comp-bio/pycascades/blob/main/demo/streamline_cancer_subtype_classification.ipynb
+[colab-badge]: https://colab.research.google.com/assets/colab-badge.svg
 
 ## Getting Involved 🤝
 If anything interests you please reach out — we love to share ideas and hear your thoughts (we also welcome PR's, forks, and issues)!
