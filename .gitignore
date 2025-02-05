@@ -178,3 +178,5 @@ demo/subtype_features/*
 data/*
 
 bmeg/*
+tf_venv
+demo/subtype_ml.ipynb
