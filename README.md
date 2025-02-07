@@ -21,7 +21,6 @@ The project focuses on building tools for genomic research, particularly in cust
 | [pathway_ea.ipynb][notebook-pathway] ⚡                               | [![Open in Colab][colab-badge]][colab-pathway]    |
 | [streamline_cancer_subtype_classification.ipynb][notebook-streamline] | [![Open in Colab][colab-badge]][colab-streamline] |
 | [grip_and_fhir.ipynb][notebook-grip]                                  | [![Open in Colab][colab-badge]][colab-grip]       |
-| [reactome_api.py][notebook-reactome]                                  | [![Open in Colab][colab-badge]][colab-reactome]   |
 | [subtype_features.ipynb][notebook-features]                           | [![Open in Colab][colab-badge]][colab-features]   |
 | [subtype_prediction_gdc_metabric.ipynb][notebook-prediction]          | [![Open in Colab][colab-badge]][colab-prediction] |
 
