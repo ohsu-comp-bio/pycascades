@@ -8,6 +8,9 @@
 
 PyCascades is a demonstration project for [PyCascades 2025](https://2025.pycascades.com/).
 
+> [!TIP]
+> https://slides.com/teslajoy/ellrotlab_pycascade_2025
+
 ## Overview 🌀
 
 The project focuses on building tools for genomic research, particularly in customizing a submission process in Python for the Gen3 platform and machine learning for predicting molecular subtypes:
